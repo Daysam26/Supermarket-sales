@@ -31,7 +31,6 @@ v. Quantity of product sold
 
 vi. Sum of tax by 5% and sum of tax by branches 
 
-
 ### Cleaning of Data 
 The process involve in data cleaning;
 1. Data loading and Data exploratory
@@ -54,22 +53,25 @@ The process involve in data cleaning;
  - Count of cogs by gender
 
 ### Insight/Inference
-1.It was gathered from the Sales dashboard that the supermarket has;
+1. It was gathered from the Sales dashboard that the supermarket has;
  - One thousand (1000) branches 
  - Three (3) cities
  - Total cost of goods sold is #307,587.38
  - Sum of tax 5% is #15,379.37
  - Total (cogs + tax) is #322,966.75
+2. From the supermarket analysis its obvious that sales drastically comes down in February and March from the visuals indicating low turn, maybe as a result of people traveling activities and their lifestyle. 
+3. The total sales performance from the analysis as observed in different branches against the month can be categorize as follows;
 
-2.From the supermarket analysis its obvious that sales drastically comes down in February and March from the visuals indicating low turn, maybe as a result of people traveling activities and their lifestyle. 
+|**Branches**| **JAN**| **FEB**| **MARCH**|
+|------------| -------| -------| ---------|
+| **A**      |  Medium|  Low   |  High    |
+| **B**      |     Low|  Hig   |  Low     |
+| **C**         | High| Medium| Medium|
+4. It was observed that, there are higher increase in customers using of cash and e wallet as a medium of payment in the supermarket compare to the use of credit card.
+5. Generally the sale demand trend of Food and Beverages has been increasing overtime follow by sports and travel, electronic accessories, fashion accessories etc by customers in all branches all through the three months. 
+6. Electronic accessories top the chat of quantity of product purchase QPP by customers followed by food and beverages.
 
-3.The total sales performance from the analysis as observed in different branches against the month can be categorize as follows;
-
-|**Branches**|**JAN**|**FEB**|**MARCH**|
-
-| **A**      | Medium| Low   | High    |
-
-|**B**|Low|Hig|Low|
-
-|**C**|High|Medium|Medium|
-
+### Recommendation 
+1. Study visibility has to be carried out in establishing supermarket, whether it a cashment area or tourism prone area expect to attract customers and generate cash related activity in other to prevent waste of resources and time.
+2. In establishing supermarket subsequently, adequate marketing and promotion packaging, re-branding and community integration measures must be done to mention a few.
+3. Shift more focus on product which are of important and more demanding such as food and beverages, sports and travel, electronic and the likes to prevent running out of stock on customers demand.
