@@ -71,6 +71,9 @@ The process involve in data cleaning;
 
 ### Insight/Inference
 ---
+
+![Screenshot (7)](https://github.com/user-attachments/assets/14518ce1-95ee-4521-b86d-1e382253bfed)
+
 1. It was gathered from the Sales dashboard that the supermarket has;
  - One thousand (1000) branches 
  - Three (3) cities
