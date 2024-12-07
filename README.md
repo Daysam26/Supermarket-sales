@@ -1,21 +1,25 @@
 # Supermarket-sales
 Documentation of personal project during SkilHarvest training
-
+## Table of Content
+### [Overview](overview)
+### [Data Source](data-source)
+### Tools Used](tools-used)
+---
 ### Overview
 This dataset contains the increasing growth of supermarket in most populated cities with a high level of competitors. It is the recorded historical sales of three (3) branches of supermarket for three (3) months. This analysis aim to use a predictive data analysis to know possible establishment of more supermarket.
-
+---
 ### Data Source
 The primary source of data use is Kaggle.com and this is an open data source which can be downloaded freely.
-
+---
 ### Tools Used
-1. Microsoft Excel
-2. Microsoft power BI
+1. Microsoft Excel [Download Here](https://www.microsoft.com/en-us/microsoft-365/excel)
+2. Microsoft power BI [Download Here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 PowerBI a tool use for visualization such as;
 -  Table function
 -  Matrix function
 -  Calling of cards
 -  Use funnel function
-
+---
 ### Exploratory Data Analysis
 The underline EDA are used in the dateset;
 
@@ -30,7 +34,7 @@ iv. Product with high turnout
 v. Quantity of product sold
 
 vi. Sum of tax by 5% and sum of tax by branches 
-
+---
 ### Cleaning of Data 
 The process involve in data cleaning;
 1. Data loading and Data exploratory
@@ -51,7 +55,7 @@ The process involve in data cleaning;
  - Sum of cogs in product line by Branch
  - Sum of cogs in product line by date 
  - Count of cogs by gender
-
+---
 ### Insight/Inference
 1. It was gathered from the Sales dashboard that the supermarket has;
  - One thousand (1000) branches 
@@ -70,7 +74,7 @@ The process involve in data cleaning;
 4. It was observed that, there are higher increase in customers using of cash and e wallet as a medium of payment in the supermarket compare to the use of credit card.
 5. Generally the sale demand trend of Food and Beverages has been increasing overtime follow by sports and travel, electronic accessories, fashion accessories etc by customers in all branches all through the three months. 
 6. Electronic accessories top the chat of quantity of product purchase QPP by customers followed by food and beverages.
-
+---
 ### Recommendation 
 1. Study visibility has to be carried out in establishing supermarket, whether it a cashment area or tourism prone area expect to attract customers and generate cash related activity in other to prevent waste of resources and time.
 2. In establishing supermarket subsequently, adequate marketing and promotion packaging, re-branding and community integration measures must be done to mention a few.
