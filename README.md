@@ -19,7 +19,7 @@ PowerBI a tool use for visualization such as;
 ### Exploratory Data Analysis
 The underline EDA are used in the dateset;
 
-i. Total number of Branches and total in each Cities
+i. Total number of branches and total in each cities
 
 ii. Total sales in January, February and March
 
@@ -52,3 +52,24 @@ The process involve in data cleaning;
  - Sum of cogs in product line by Branch
  - Sum of cogs in product line by date 
  - Count of cogs by gender
+
+### Insight/Inference
+1.It was gathered from the Sales dashboard that the supermarket has;
+ - One thousand (1000) branches 
+ - Three (3) cities
+ - Total cost of goods sold is #307,587.38
+ - Sum of tax 5% is #15,379.37
+ - Total (cogs + tax) is #322,966.75
+
+2.From the supermarket analysis its obvious that sales drastically comes down in February and March from the visuals indicating low turn, maybe as a result of people traveling activities and their lifestyle. 
+
+3.The total sales performance from the analysis as observed in different branches against the month can be categorize as follows;
+
+|**Branches**|**JAN**|**FEB**|**MARCH**|
+
+| **A**      | Medium| Low   | High    |
+
+|**B**|Low|Hig|Low|
+
+|**C**|High|Medium|Medium|
+
