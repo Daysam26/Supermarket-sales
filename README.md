@@ -18,11 +18,17 @@ PowerBI a tool use for visualization such as;
 
 ### Exploratory Data Analysis
 The underline EDA are used in the dateset;
+
 i. Total number of Branches and total in each Cities
+
 ii. Total sales in January, February and March
+
 iii. Total cost of goods sold and sum of goods sold in the cities
+
 iv. Product with high turnout
+
 v. Quantity of product sold
+
 vi. Sum of tax by 5% and sum of tax by branches 
 
 
