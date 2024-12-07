@@ -8,9 +8,9 @@ This dataset contains the increasing growth of supermarket in most populated cit
 The primary source of data use is Kaggle.com and this is an open data source which can be downloaded freely.
 
 ### Tools Used
-Microsoft Excel
-Microsoft power BI
-Power BI a tool use for visualization such as;
+1. Microsoft Excel
+2. Microsoft power BI
+PowerBI a tool use for visualization such as;
 -  Table function
 -  Matrix function
 -  Calling of cards
