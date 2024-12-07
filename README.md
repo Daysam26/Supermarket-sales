@@ -15,3 +15,34 @@ PowerBI a tool use for visualization such as;
 -  Matrix function
 -  Calling of cards
 -  Use funnel function
+
+### Exploratory Data Analysis
+The underline EDA are used in the dateset
+i.Total number of Branches and total in each Cities
+ii.Total sales in January, February and March
+iii.Total cost of goods sold and sum of goods sold in the cities
+iv.Product with high turnout
+v.Quantity of product sold
+vi.Sum of tax by 5% and sum of tax by branches 
+
+
+### Cleaning of Data 
+The process involve in data cleaning;
+1. Data loading and Data exploratory
+2. Creation additional column
+ - Calculated column (measure)
+3. Data Summarization into visuals which includes;
+ - Total Branches 
+ -  Count of Cities
+ - Sum of Cogs
+ - Sum of Tax 5%
+ - Sum of Total
+ - Total gross income
+ - Sum of cogs in Branch A for Jan, Feb and March
+ - Sum of cogs in Branch B for Jan, Feb and March
+ - Sum of cogs in Branch C for Jan, Feb and March
+ - Count of cogs by payment
+ - Total quantity by product line
+ - Sum of cogs in product line by Branch
+ - Sum of cogs in product line by date 
+ - Count of cogs by gender
