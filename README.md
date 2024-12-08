@@ -72,7 +72,7 @@ The process involve in data cleaning;
 ### Insight/Inference
 ---
 
-![Sales 1](https://github.com/user-attachments/assets/27fc360b-170b-4eef-bb46-dc8181ef85b6)
+![sales 1](https://github.com/user-attachments/assets/8bc5767e-0e41-40b5-bfa5-de81c2f222db)
 
 1. It was gathered from the Sales dashboard that the supermarket has;
  - One thousand (1000) branches 
