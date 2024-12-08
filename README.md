@@ -81,9 +81,15 @@ The process involve in data cleaning;
  - Sum of tax 5% is #15,379.37
  - Total (cogs + tax) is #322,966.75
 
-2. From the supermarket analysis its obvious that sales drastically comes down in February with 92,589.88 cogs in three cities and 303 branches at 4,629.49 as tax of 5% , maybe as a result of people traveling activities and their lifestyle. 
+2. From the supermarket analysis its obvious that sales drastically comes down in February with 92,589.88 cogs in three cities and 303 branches at 4,629.49 as tax of 5% , maybe as a result of people traveling activities and their lifestyle.
+
+3. All 340 branches in YANGON city made 101,143.21 as cogs with 5,057.16 tax  subject to 21,349.71 home and lifestyle sold as highest product purchase in 3 months. 
+
+4. All 332 branches in MANDALAY city made 101,140.64 as cogs with 5,057.03 tax in 3 months subject to 19,036.38 sports and travel sold as highest product purchase. 
+
+5. All 328 branches in NAYPYITAW city made 105,303.53 as cogs with 5.265.18 tax subject to 22,635.10 food and beverages sold as highest product purchase in 3 months.   
  
-3. The total sales performance from the analysis as observed in different branches against the month can be categorize as follows;
+6. The total sales performance from the analysis as observed in different branches against the month can be categorize as follows;
 
 |**Branches**| **JAN**| **FEB**| **MARCH**|
 |------------| -------| -------| ---------|
@@ -91,11 +97,11 @@ The process involve in data cleaning;
 | **B**      |     Low|  High  |  Low     |
 | **C**         | High| Medium| Medium|
 
-4. It was observed that, there are higher increase in customers using of cash and e wallet as a medium of payment in the supermarket compare to the use of credit card.
+7. It was observed that, there are higher increase in customers using of cash and e wallet as a medium of payment in the supermarket compare to the use of credit card.
 
-5. Generally the sale demand trend of Food and Beverages has been increasing overtime follow by sports and travel, electronic accessories, fashion accessories etc by customers in all branches all through the three months. 
+8. Generally the sale demand trend of Food and Beverages has been increasing overtime follow by sports and travel, electronic accessories, fashion accessories etc by customers in all branches all through the three months. 
 
-6. Electronic accessories top the chat of quantity of product purchase QPP by customers followed by food and beverages.
+9. Electronic accessories top the chat of quantity of product purchase QPP by customers followed by food and beverages.
 
 ### Recommendation
 ---
