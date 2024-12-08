@@ -39,7 +39,7 @@ i. Total number of branches and total in each cities
 
 ii. Total sales in January, February and March
 
-iii. Total cost of goods sold and sum of goods sold in the cities
+iii. Total cost of goods sold (cogs) and sum of goods sold in the cities
 
 iv. Product with high turnout
 
@@ -77,7 +77,7 @@ The process involve in data cleaning;
 1. It was gathered from the Sales dashboard that the supermarket has;
  - One thousand (1000) branches 
  - Three (3) cities
- - Total cost of goods sold is #307,587.38
+ - Total cost of goods sold (cogs) is #307,587.38
  - Sum of tax 5% is #15,379.37
  - Total (cogs + tax) is #322,966.75
 
