@@ -80,7 +80,9 @@ The process involve in data cleaning;
  - Total cost of goods sold is #307,587.38
  - Sum of tax 5% is #15,379.37
  - Total (cogs + tax) is #322,966.75
-2. From the supermarket analysis its obvious that sales drastically comes down in February and March from the visuals indicating low turn, maybe as a result of people traveling activities and their lifestyle. 
+
+2. From the supermarket analysis its obvious that sales drastically comes down in February with 92,589.88 cogs in three cities and 303 branches at 4,629.49 as tax of 5% , maybe as a result of people traveling activities and their lifestyle. 
+ 
 3. The total sales performance from the analysis as observed in different branches against the month can be categorize as follows;
 
 |**Branches**| **JAN**| **FEB**| **MARCH**|
@@ -88,8 +90,11 @@ The process involve in data cleaning;
 | **A**      |  Medium|  Low   |  High    |
 | **B**      |     Low|  High  |  Low     |
 | **C**         | High| Medium| Medium|
+
 4. It was observed that, there are higher increase in customers using of cash and e wallet as a medium of payment in the supermarket compare to the use of credit card.
+
 5. Generally the sale demand trend of Food and Beverages has been increasing overtime follow by sports and travel, electronic accessories, fashion accessories etc by customers in all branches all through the three months. 
+
 6. Electronic accessories top the chat of quantity of product purchase QPP by customers followed by food and beverages.
 
 ### Recommendation
