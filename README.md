@@ -86,7 +86,7 @@ The process involve in data cleaning;
 |**Branches**| **JAN**| **FEB**| **MARCH**|
 |------------| -------| -------| ---------|
 | **A**      |  Medium|  Low   |  High    |
-| **B**      |     Low|  Hig   |  Low     |
+| **B**      |     Low|  High  |  Low     |
 | **C**         | High| Medium| Medium|
 4. It was observed that, there are higher increase in customers using of cash and e wallet as a medium of payment in the supermarket compare to the use of credit card.
 5. Generally the sale demand trend of Food and Beverages has been increasing overtime follow by sports and travel, electronic accessories, fashion accessories etc by customers in all branches all through the three months. 
